@@ -1,4 +1,4 @@
-# theGoldenLand
+# TheGoldenLand
 Web project showing Myanmar's Traditions
 
 This is the web project showing the Culture, Cuisine, Festivals, Famous Places, Ethinc Groups and Handicrafts in Myanmar.
