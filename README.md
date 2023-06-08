@@ -6,5 +6,3 @@ in Myanmar. This version may be slightly different from the walkthrough video as
 
 For mor details about the project: => 
 Refer to the documentation pdf.
-
-**Please Note that all Javascript and CSS files will not be included in this repository.
